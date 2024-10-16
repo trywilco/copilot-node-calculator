@@ -4,40 +4,11 @@
 
 <img width="400" alt="Node Calculator image" src="./assets/Node%20calculator%20image.png">
 
-In this fun workshop, you will learn how to use GitHub Copilot to enhance a node-based Calculator, with little to no coding experience required.
-
 The project contains a simple node.js application that exposes REST APIs to perform arithmetic on integers, and provides a test suite with mocha and chai.
-
-Participants will be guided to install the GitHub Copilot VS Code extension, and then use it to enhance a simple Node Calculator app. You will also use GitHub Copilot to write some missing unit tests for the Calculator app.
-
 
 ## Instructions 
 
 In order to run the app use `npm start`
-
-Filename | Description
---- | ---
-[1. setup.md](</.instructions/1. setup.md>) | Instructions for installing the GitHub Copilot VS Code extension and joining the GitHub Copilot trial.
-[2. core exercises.md](</.instructions/2. core exercises.md>) | Instructions for the core exercise of this workshop.
-[3. challenge exercises.md](</.instructions/3. challenge exercises.md>) | Challenge exercises for participants to complete.
-[4. additional resources.md](</.instructions/4. additional resources.md>) | Additional resources for participants to explore after the workshop.
-
-
-## Project Structure
-
-In this project you will find: 
-
-* the node-based Calculator application
-* a `test` folder containing MOCHA unit tests for the Calculator app
-* a devcontainer that installs GitHub Copilot when the Codespace is created (If you want to use Codespaces)
-
-
-## FAQ 
-
-- **How do I get a GitHub Copilot license?**
-  - You can request a trial license from your GitHub Sales representative or via Copilot for Individuals or Business licenses.
-- **I am having trouble activating GitHub Copilot after I load the plugin, what should I do?**
-    - This could be because you launched your Codespace before you activated GitHub Copilot or accepted the invitation to the trial org. Please try to reload your Codespace and try again.
 
 ## Acknowledgements
 
