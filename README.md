@@ -8,14 +8,12 @@ In this fun workshop, you will learn how to use GitHub Copilot to enhance a node
 
 The project contains a simple node.js application that exposes REST APIs to perform arithmetic on integers, and provides a test suite with mocha and chai.
 
-Estimated time to complete: `10 to 60 minutes`
-
 Participants will be guided to install the GitHub Copilot VS Code extension, and then use it to enhance a simple Node Calculator app. You will also use GitHub Copilot to write some missing unit tests for the Calculator app.
 
 
 ## Instructions 
 
-Inside the `.instructions` folder you will find a number of markdown files that contain the instructions for this workshop.
+In order to run the app use `npm start`
 
 Filename | Description
 --- | ---
@@ -25,11 +23,6 @@ Filename | Description
 [4. additional resources.md](</.instructions/4. additional resources.md>) | Additional resources for participants to explore after the workshop.
 
 
-## Running a workshop?
-
-If you're planning to run a GitHub Copilot workshop, please review the [workshop guide](</.instructions/workshop organisers.md>) for tips and tricks to help you run a successful workshop. 
-
-
 ## Project Structure
 
 In this project you will find: 
@@ -37,26 +30,18 @@ In this project you will find:
 * the node-based Calculator application
 * a `test` folder containing MOCHA unit tests for the Calculator app
 * a devcontainer that installs GitHub Copilot when the Codespace is created (If you want to use Codespaces)
-* an `.instructions` folder all the instructions for this workshop.
-* an `assets` folder containing images used in this workshop documentation.
-
 
 
 ## FAQ 
 
 - **How do I get a GitHub Copilot license?**
   - You can request a trial license from your GitHub Sales representative or via Copilot for Individuals or Business licenses.
-- **How do I get a GitHub Codespaces license?**
-    - Codespaces is included with GitHub Enterprise Cloud, GitHub Enterprise Server, and GitHub Free. You can check under your [billing settings page](https://github.com/settings/billing).
 - **I am having trouble activating GitHub Copilot after I load the plugin, what should I do?**
     - This could be because you launched your Codespace before you activated GitHub Copilot or accepted the invitation to the trial org. Please try to reload your Codespace and try again.
 
 ## Acknowledgements
 
-A special thanks to the following awesome Hubbers who have contributed in many different ways to our workshops. 
+A special thanks to the following awesome Hubbers who have contributed in many different ways to this repository. 
 [pierluigi](https://github.com/pierluigi), [parroty](https://github.com/yuichielectric), [yuichielectric](https://github.com/yuichielectric), [dchomh](https://github.com/dchomh), [nolecram](https://github.com/nolecram), [rsymo](https://github.com/rsymo), [damovisa](https://github.com/damovisa) and anyone else I've inadvertently missed.
-
-Enjoy your workshop!
-[anthonyborton](https://github.com/anthonyborton)
 
 _v1.0 Released June, 2023_
